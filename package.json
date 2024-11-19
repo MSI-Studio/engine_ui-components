@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThatOpen/engine_ui-components.git"
+    "url": "git+https://github.com/MSI-Studio/engine_ui-components"
   },
   "workspaces": [
     "./packages/*"
